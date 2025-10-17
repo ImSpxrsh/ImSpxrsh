@@ -17,8 +17,8 @@
 
 ###
 
-[![Linkedin: duckquang](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/roysparsh/)
-[![GitHub Duck Quang](https://img.shields.io/github/followers/duckyquang?label=follow&style=social)](https://github.com/ImSpxrsh)
+[![Linkedin: Sparsh Roy](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/roysparsh/)
+[![GitHub Sparsh Roy](https://img.shields.io/github/followers/duckyquang?label=follow&style=social)](https://github.com/ImSpxrsh)
 <br>
 
 <div align="left">
