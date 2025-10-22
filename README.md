@@ -67,9 +67,9 @@
 ```javascript
 const sparsh = {
   pronouns: "he" | "him",
-  nationality: "India",
-  code: [React, HTML, CSS, Python, Java, TypeScript],
-  tools: [React, Firebase, Figma],
+  nationality: "Indian",
+  code: ["React", "HTML", "CSS", "Python", "Java", "TypeScript"],
+  tools: ["React", "Firebase", "Figma"],
   building: "Aidsense"
 }
 ```
