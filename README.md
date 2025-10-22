@@ -70,7 +70,7 @@ const sparsh = {
   nationality: "India",
   code: [React, HTML, CSS, Python, Java, TypeScript],
   tools: [React, Firebase, Figma],
-  building: "Aidsense
+  building: "Aidsense"
 }
 ```
 
