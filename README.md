@@ -21,12 +21,6 @@
 [![GitHub Sparsh Roy](https://img.shields.io/github/followers/duckyquang?label=follow&style=social)](https://github.com/ImSpxrsh)
 <br>
 
-<div align="left">
-  <a href="https://github.com/ImSpxrsh/github-readme-stats">
-    <img height="150" src="https://streak-stats.demolab.com?user=ImSpxrsh&locale=en&mode=daily&theme=github_dark_dimmed" alt="streak graph"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSpxrsh&theme=github_dark_dimmed&card_width=320&layout=compact" alt="languages"/>
-  </a>
-</div>
 
 ###
 
