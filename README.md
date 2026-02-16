@@ -5,7 +5,7 @@
   <br>
   Programming @ FRC 293
   <br>
-  Founder of Aidsense (COMING SOON)
+  Founder of Aidsense https://aidsense.app/ 
   </em>
 </p>
 
