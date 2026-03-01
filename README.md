@@ -1,9 +1,9 @@
 <h1> Hey! I'm Sparsh Roy </h1>
 <p>
   <em>
-  Technology Manager @ The Institute for Youth in Policy 
+  Technology Manager @ The Institute for Youth in Policy https://yipinstitute.org/
   <br>
-  Programming @ FRC 293
+  Programming @ FRC 293 https://293spike.com/
   <br>
   Founder of Aidsense https://aidsense.app/ 
   </em>
