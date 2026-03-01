@@ -1,7 +1,7 @@
 <h1> Hey! I'm Sparsh Roy </h1>
 <p>
   <em>
-  Technology Intern @ The Institute for Youth in Policy 
+  Technology Manager @ The Institute for Youth in Policy 
   <br>
   Programming @ FRC 293
   <br>
