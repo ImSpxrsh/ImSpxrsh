@@ -64,7 +64,7 @@ const sparsh = {
   nationality: "Indian",
   code: ["React", "HTML", "CSS", "Python", "Java", "TypeScript"],
   tools: ["React", "Firebase", "Figma"],
-  building: "Aidsense"
+  Researching: "SDOH's"
 }
 ```
 
