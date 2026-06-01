@@ -1,7 +1,7 @@
 <h1> Hey! I'm Sparsh Roy </h1>
 <p>
   <em>
-  Technology Manager @ The Institute for Youth in Policy https://yipinstitute.org/
+  Researcher @ MIT CSAIL Kellis Lab (Mantis) https://compbio.mit.edu/
   <br>
   Programming @ FRC 293 https://293spike.com/
   <br>
