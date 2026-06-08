@@ -11,9 +11,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Building Aidsense for the Congressional App Challange
-- 🌱 I’m currently learning: Three.JS and Flutter
-- 📫 How to reach me: mail@sparshroy.com
+- 🔭 Researching, Creating Startups.
+- 🌱 Getting Ready for AAAI, IEEE, SSRN
+- 📫 How to reach me: mail@sparshroy.com or Gokuvsninja@gmail.com
+- NOTICE MOST PROJECTS OF MINE ARE PRIVATE, IF YOU WANT TO DISCUSS PLEASE REACH ME ABOVE.
 
 ###
 
