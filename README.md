@@ -2,6 +2,7 @@
 <p>
   <em>
   Researcher @ MIT CSAIL Kellis Lab (Mantis) https://compbio.mit.edu/
+  Researcher @ MIT Critical Data
   <br>
   Programming @ FRC 293 https://293spike.com/
   <br>
