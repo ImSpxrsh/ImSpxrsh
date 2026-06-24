@@ -2,7 +2,12 @@
 <p>
   <em>
   Researcher @ MIT CSAIL Kellis Lab (Mantis) https://compbio.mit.edu/
-  Researcher @ MIT Critical Data
+  <br>
+  Researcher @ MIT Critical Data https://criticaldata.mit.edu/
+  <br>
+  Researcher @ UIUC Salt Labs https://salt.ischool.illinois.edu/
+  <br>
+  Research Auditor @ UCSC AIEA Lab
   <br>
   Programming @ FRC 293 https://293spike.com/
   <br>
