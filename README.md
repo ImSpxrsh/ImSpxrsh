@@ -1,7 +1,7 @@
 <h1> Hey! I'm Sparsh Roy </h1>
 <p>
   <em>
-  Researcher @ MIT CSAIL Kellis Lab (Mantis) https://compbio.mit.edu/
+  Researcher @ MIT CSAIL Kellis Lab  https://compbio.mit.edu/
   <br>
   Researcher @ MIT Critical Data https://criticaldata.mit.edu/
   <br>
