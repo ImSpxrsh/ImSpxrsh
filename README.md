@@ -7,7 +7,7 @@
   <br>
   Researcher @ UIUC Salt Labs https://salt.ischool.illinois.edu/
   <br>
-  Research Auditor @ UCSC AIEA Lab
+  Research Auditor @ UCSC 
   <br>
   Programming @ FRC 293 https://293spike.com/
   <br>
