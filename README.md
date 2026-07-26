@@ -1,20 +1,5 @@
 <h1> Hey! I'm Sparsh Roy </h1>
-<p>
-  <em>
-  Researcher @ MIT CSAIL Kellis Lab  https://compbio.mit.edu/
-  <br>
-  Researcher @ MIT Critical Data https://criticaldata.mit.edu/
-  <br>
-  Researcher @ UIUC Salt Labs https://salt.ischool.illinois.edu/
-  <br>
-  Researcher @ SAID Labs https://www.saidlab.org/
-  <br>
-  Research Auditor @ UCSC 
-  <br>
-  Programming @ FRC 293 https://293spike.com/
-  <br>
-  Founder of Aidsense https://aidsense.app/ 
-  </em>
+
 </p>
 
 ## 🚀 About Me
