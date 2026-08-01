@@ -6,7 +6,7 @@
 
 - 🔭 Researching, Creating Startups.
 - 🌱 Getting Ready for AAAI, IEEE, NuerIPS
-- 📫 How to reach me: mail@sparshroy.com or Gokuvsninja@gmail.com
+- 📫 How to reach me: mail@sparshroy.com or sparshr@mit.edu
 - NOTICE MOST PROJECTS OF MINE ARE PRIVATE, IF YOU WANT TO DISCUSS PLEASE REACH ME ABOVE.
 
 ###
