@@ -88,8 +88,10 @@ Most of my work is private while it is in progress. If something here is relevan
 
 <p align="center">
   <a href="https://github.com/ImSpxrsh?tab=repositories">See all repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImSpxrsh&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
