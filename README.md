@@ -95,5 +95,5 @@ Most of my work is private while it is in progress. If something here is relevan
 </p>
 
 <p align="center">
-  <sub>Designed with GitSkins. Built in public.</sub>
+  <sub>Goat Mentality </sub>
 </p>
