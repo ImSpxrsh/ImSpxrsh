@@ -10,7 +10,9 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/roysparsh/">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/ImSpxrsh?tab=repositories">Projects</a>
+  <a href="https://sites.mit.edu/sparsh/publications/">Research</a>
+  &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=HfEbSvcAAAAJ">Google Scholar</a>
 </p>
 
 <p align="center">
@@ -19,7 +21,7 @@
 
 ## Research and systems that hold up outside the lab
 
-I work on AI and machine learning for health, local-first systems, and social-impact products, and I build startups around them. A lot of my current research sits on social determinants of health — the parts of an outcome that never show up in the clinical record.
+I work on computational biology and physiology, healthcare AI, and the interfaces that sit between a model and the person acting on it. The machine learning is the method, not the point: what I care about is whether a system reasons about mechanism — how a pathway fails, how a body compensates, what a signal actually measures — and whether a clinician or a patient can read that reasoning. A lot of my current research sits on social determinants of health, the parts of an outcome that never show up in the clinical record.
 
 The common thread across everything here is honesty about limits: systems that state what they predict versus what they measure, degrade instead of breaking when the network drops, and stay legible to the person relying on them.
 
@@ -38,14 +40,15 @@ The common thread across everything here is honesty about limits: systems that s
 
 | Project | What it is |
 | --- | --- |
-| [Aidsense](https://github.com/ImSpxrsh/Aidsense) | Mobile app that turns a plain-language message like "I need food" into real nearby food, shelter, and clinic resources. Works online or off, on Android and iOS. |
-| [AURA](https://github.com/ImSpxrsh/Autonomous-Unified-Reasoning-Assistant) | Local-first personal AI across calendar, mail, coursework, and files. Fully functional offline on Ollama alone — degraded quality is acceptable, broken features are not. |
+| [MARC](https://github.com/saidlaboratory/MARC) | Mathematical AI Reasoning Core, at SAID Laboratory. A learned prior over constraint graphs that decides *what structure to add* to a problem; classical solvers find the values, and an exact symbolic checker decides what counts as true. |
 | [ATAP](https://github.com/ImSpxrsh/ATAP) | Computational susceptibility map for BAX-independent salvage in BH3-mimetic-resistant blood cancers. Predicts susceptibility from mechanism; claims no efficacy. |
-| [NJX](https://github.com/ImSpxrsh/NJX) | CircleCheck — risk-adaptive verification for urgent impersonation requests. Extracts explainable warning signs and routes high-risk cases to a trusted contact. |
-| [velvt](https://github.com/ImSpxrsh/velvt) | Focus-tracking overlay for macOS that detects app-switching and turns attention fragmentation into live analytics. |
+| [Aidsense](https://github.com/ImSpxrsh/Aidsense) | Mobile app that turns a plain-language message like "I need food" into real nearby food, shelter, and clinic resources. Works online or off, on Android and iOS. |
+| [velvt-core](https://github.com/getvelvt/velvt-core) | Backend for velvt.ai. Turns privacy-safe abstracted device events into sessions, fragmentation and focus scores, and one daily insight — without ever receiving an app name, window title, or URL. |
+| [AURA](https://github.com/ImSpxrsh/Autonomous-Unified-Reasoning-Assistant) | Local-first personal AI across calendar, mail, coursework, and files. Fully functional offline on Ollama alone — degraded quality is acceptable, broken features are not. |
+| [Rebuilt](https://github.com/Team293/Rebuilt) | FRC Team 293's 2026 competition robot. I wrote the intake subsystem and tuned the flywheel control loop. |
 
 <p align="center">
-  <a href="https://github.com/ImSpxrsh/Aidsense"><b>Explore Aidsense</b></a>
+  <a href="https://github.com/saidlaboratory/MARC"><b>Explore MARC</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.sparshroy.com">Visit sparshroy.com</a>
 </p>
@@ -71,7 +74,7 @@ The contribution graph is part of the profile experience. It refreshes automatic
 ## Current focus
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=ImSpxrsh&theme=aurora&items=Health%20AI::Social%20determinants%20behind%20clinical%20outcomes|Local-first%20systems::Software%20that%20degrades%20instead%20of%20breaking|Research::Writing%20toward%20AAAI%2C%20IEEE%2C%20and%20NeurIPS" width="100%" alt="Current focus areas for Sparsh Roy" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=ImSpxrsh&theme=aurora&items=Computational%20biology::Mechanism-level%20models%20of%20disease%20and%20response|Healthcare%20AI::Physiology%20and%20the%20determinants%20behind%20outcomes|Human-centered%20systems::Interfaces%20that%20stay%20legible%20under%20real%20use" width="100%" alt="Current focus areas for Sparsh Roy" />
 </p>
 
 ## Reach me
