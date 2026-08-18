@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - README.md
+      - .github/scripts/fetch_contributions.py
       - .github/workflows/gitskins-space-shooter.yml
   schedule:
     - cron: "0 0 * * *"
@@ -26,12 +27,21 @@ jobs:
       - name: Prepare output
         run: mkdir -p dist
 
+      - name: Fetch this year's contributions
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/fetch_contributions.py ImSpxrsh dist/contributions.json
+
       - name: Generate Space Shooter
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python -m pip install --disable-pip-version-check "gh-space-shooter==2.0.4"
-          gh-space-shooter ImSpxrsh --output dist/space-shooter.gif --strategy random --fps 30
+          python -m pip install --disable-pip-version-check "gh-space-shooter==2.0.5"
+          gh-space-shooter ImSpxrsh \
+            --raw-input dist/contributions.json \
+            --output dist/space-shooter.gif \
+            --strategy random \
+            --fps 30
 
       - name: Publish generated game
         env:
