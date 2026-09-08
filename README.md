@@ -21,7 +21,7 @@
 
 ## Yooo
 
-Geeked Vs Locked In 
+Geeked Vs Locked In credits claude fable 5.1 for making this read me
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ImSpxrsh&theme=aurora&mode=light" />
