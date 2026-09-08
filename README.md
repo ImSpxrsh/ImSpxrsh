@@ -19,12 +19,9 @@
   <img src="https://www.gitskins.com/api/section/wordmark?username=ImSpxrsh&theme=aurora&label=Sparsh%20Roy" width="100%" alt="Animated 3D wordmark for Sparsh Roy" />
 </p>
 
-## Research and systems that hold up outside the lab
+## Yooo
 
-I work on computational biology and physiology, healthcare AI, and the interfaces that sit between a model and the person acting on it. The machine learning is the method, not the point: what I care about is whether a system reasons about mechanism — how a pathway fails, how a body compensates, what a signal actually measures — and whether a clinician or a patient can read that reasoning. A lot of my current research sits on social determinants of health, the parts of an outcome that never show up in the clinical record.
-
-The common thread across everything here is honesty about limits: systems that state what they predict versus what they measure, degrade instead of breaking when the network drops, and stay legible to the person relying on them.
-
+Geeked Vs Locked In 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ImSpxrsh&theme=aurora&mode=light" />
